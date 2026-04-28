@@ -3,52 +3,51 @@ import * as Plugin from "./quartz/plugins"
 
 /**
  * Quartz 4 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
+ * Christopher Patrick Silver — Photographs 1920–2012
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Christopher Patrick Silver",
+    pageTitleSuffix: " — CPS Photographs",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "umami",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "en-GB",
+    baseUrl: "jagosilver.github.io/christopher-silver",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Playfair Display",
+        body: "Source Serif 4",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f5f0e8",
+          lightgray: "#e0d8cc",
+          gray: "#a09080",
+          darkgray: "#3a3028",
+          dark: "#1a1008",
+          secondary: "#6b4c2a",
+          tertiary: "#a07848",
+          highlight: "rgba(107, 76, 42, 0.10)",
+          textHighlight: "#d4b89688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1a1510",
+          lightgray: "#2e2620",
+          gray: "#6a5a48",
+          darkgray: "#d8c8b8",
+          dark: "#f0e8d8",
+          secondary: "#c89060",
+          tertiary: "#a07848",
+          highlight: "rgba(200, 144, 96, 0.12)",
+          textHighlight: "#6b4c2a88",
         },
       },
     },
@@ -88,8 +87,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
     ],
   },
 }
