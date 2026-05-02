@@ -6,7 +6,7 @@ tags:
   - photography
 ---
 
-*← [[index|Christopher Patrick Silver]]*
+*← [Christopher Patrick Silver](../)*
 
 [Christopher Patrick Silver](Christopher-Silver) served in India with the Royal Army Medical Corps (RAMC) during the Second World War, arriving after the Italian campaign and remaining until demobilisation in 1946. He held the rank of temporary major. These photographs were almost certainly taken during that period — most likely in Bombay (now Mumbai), India's principal port city and the hub of British military activity in the region. They are vivid documents of late colonial India, capturing street life, transport, and the social spectacle of the Bombay Racecourse.
 

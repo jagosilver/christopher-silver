@@ -6,7 +6,7 @@ tags:
   - photography
 ---
 
-*← [[index|Christopher Patrick Silver]]*
+*← [Christopher Patrick Silver](../)*
 
 The Canadian photographs were taken in **1961** on Kodachrome colour film — vivid, warm-toned slides that capture the full sweep of a trans-Canada road journey. CPS was 41 that year. The route appears to have taken him and his wife Nancy from the Atlantic coast (Halifax, Nova Scotia) westward through Ontario (Toronto, Niagara) and the prairies (Regina, Saskatchewan) to the Pacific coast of British Columbia, including the Fraser Canyon, the North Thompson River valley, Vancouver, and Victoria. These are among the most visually striking photographs in the collection, benefiting from the exceptional colour fidelity of Kodachrome 1961 film.
 

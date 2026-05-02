@@ -6,7 +6,7 @@ tags:
   - photography
 ---
 
-*← [[index|Christopher Patrick Silver]]*
+*← [Christopher Patrick Silver](../)*
 
 Two photographs survive from Killiney Bay on the south coast of County Dublin, Ireland — a location famous for its views across the bay toward the Wicklow Mountains.
 

@@ -6,7 +6,7 @@ tags:
   - photography
 ---
 
-*← [[index|Christopher Patrick Silver]]*
+*← [Christopher Patrick Silver](../)*
 
 CPS photographed in Wales across several locations, from the great Edwardian fortress of Caernarfon in the north to the coastal town of Tenby in the south, with inland views of the Rheidol Valley and the university town of Aberystwyth.
 

@@ -6,7 +6,7 @@ tags:
   - photography
 ---
 
-*← [[index|Christopher Patrick Silver]]*
+*← [Christopher Patrick Silver](../)*
 
 The People photographs form one of the most intriguing and frustrating parts of the collection. Twenty-three photographs survive showing individuals and groups — family members, friends, medical colleagues, and strangers on a promenade. The identities of most subjects are unknown. As Basil Macdonald noted when sending the scans: *"I'd really like to know who everybody is as I can only guess three or four people."*
 

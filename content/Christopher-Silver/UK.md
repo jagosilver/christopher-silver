@@ -6,7 +6,7 @@ tags:
   - photography
 ---
 
-*← [[index|Christopher Patrick Silver]]*
+*← [Christopher Patrick Silver](../)*
 
 [Christopher Patrick Silver](Christopher-Silver) was born in Exeter, educated at King's School Bruton and Hertford College Oxford, and spent much of his career in London. His UK photographs span decades and range from intimate images of the family home in Exeter to grand architectural subjects — ruined abbeys, college buildings, cathedral towns — and chance documents of the wartime landscape. The Exeter photographs in particular carry a strong personal character; many were taken in and around the family home of his father, [Clifford Marking Silver](Clifford-Marking-Silver), the dentist.
 

@@ -6,7 +6,7 @@ tags:
   - photography
 ---
 
-*← [[index|Christopher Patrick Silver]]*
+*← [Christopher Patrick Silver](../)*
 
 CPS photographed in the south of France, capturing both the great medieval fortress city of Carcassonne and the small Mediterranean coastal town of Banyuls-sur-Mer near the Spanish border. These appear to be glass plate images from the mid-twentieth century. The France photographs also include a church in Elne and scenes in Collioure — all clustered around the Roussillon coast of Languedoc, suggesting a single touring visit to this corner of France.
 

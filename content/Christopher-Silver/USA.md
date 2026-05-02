@@ -6,7 +6,7 @@ tags:
   - photography
 ---
 
-*← [[index|Christopher Patrick Silver]]*
+*← [Christopher Patrick Silver](../)*
 
 The American photographs were taken during the same **1961** North American journey as the [Canadian photographs](Christopher-Silver/Canada), with the addition of a small number of earlier black-and-white glass plate images. The 1961 slides show CPS moving through the Eastern Seaboard — Philadelphia, Washington DC, New York, Niagara Falls — then west through Colorado and Utah to the Pacific coast. The black-and-white plates (including Washington DC's Capitol building) may predate the 1961 trip.
 
