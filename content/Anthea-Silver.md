@@ -541,3 +541,52 @@ I look back on my childhood with great happiness despite the war. We had so litt
 The horrible sick feeling hit me when David told me about the message pinned to our tent at lunch time. It said 'Urgent, phone Calstock'. I was sure my parents had been involved in an accident. It seemed to take ages to get through on the telephone and I felt very self conscious with the two French people, David & Mr McFie standing in the tiny room. The line was bad, but it sounded like my mother's voice — I just said 'Is that Melegate?' not knowing who to ask for. My mother said 'I ~~so~~ wanted to speak to David' — but I told her to go ahead, she said 'Oh, Anthea, it's awful, Gill's dead'. I felt very sick, but quite calm — I asked what had happened & my mother said 'asthma' — I misheard, thought she said 'accident' and had to ask her to repeat it. She then told me that Gill died Saturday morning, that my mother ~~she~~ was at Melegate with Blanche, Gretchen and the children — & Daddy of course. They had had great difficulty in contacting Mike at Nice University, but he was at last on his way home. I couldn't think of anything to say, so just said I needed to think what to do and would try to phone later. David had been listening and explained in French to Mr & Mrs Givache — who were kind & gentle, and brought me brandy. David went back to the tent and told the children what had happened, then Tom came to the office and walked back with me. The children were getting the lunch, Bridget looking stoney, almost angry; Candy looking as though she was having great difficulty in not crying. The looked at me, so I smiled and sat down — and we eat some lunch. It didn't choke me, as in novels, or taste of sawdust — it was just ham & salad & I was quite hungry. I felt that my
 
 *[The manuscript ends here.]*
+
+---
+
+# Eulogy
+
+*Written and delivered by Jago Silver.*
+
+I wanted to say a few things about Anthea.
+
+I recently found a letter from the medical director of a London clinic, written to Anthea's parents in 1931, it reads:
+
+> "You will be interested to know that actual figures worked out from Anthea's test last Saturday show that she is not only high, but unusually high in intelligence, her mental development being slightly in excess of that normal for a child of six years."
+
+Anthea was only three at the time… it continues…
+
+> "This is undoubtedly a very big factor in her present, rather trying behaviour, but her future brilliance will amply repay you for any trouble you may experience while she is very young."
+
+78 years later I think we would all agree she certainly was brilliant.
+
+The Anthea I remember was always full of stories… one of my favourites regards her dislike of dogs (something we share) …I recall her telling me how once at a play park she placed her foot under an annoying sausage dog and flicked it through the air away from a small grandchild that it was scaring.
+
+She definitely had a rather mischievous side and was also fiercely independent…
+
+She told me how in her male-dominated architecture school one particularly prejudiced lecturer liked to criticise weak drawings by calling them feminine and was convinced that female students could not compete. During a group criticism he then praised her own work as a fine example of a strong masculine drawing — without realising that she had produced it. She said she had great pleasure in claiming the work as her own and watching him eat his own words.
+
+Anthea always seemed knowledgeable about absolutely everything, and there seemed to be no topic that did not hold some interest for her. I loved having long rambling conversations with her, covering everything from the Internet and computers to politics, books or art. She was always genuinely interested in what you had to say and was always ready to listen to you.
+
+She was ridiculously modest about her artistic abilities, indeed often to the point of cutting up what we might all have considered masterpieces, often turning them into birthday cards, bookmarks or envelopes for vouchers. I have been looking through the enormous collection of artwork she left behind and I am utterly staggered at her exceptional talent for drawing and painting. She was never satisfied with her work and was constantly striving to be better at it, something I find truly inspiring.
+
+When I think of Anthea I cannot help but think of her meticulous organisation and the almost obsessive way that she carefully reused everything that could possibly be reused. In fact she was so efficient at recycling anything she no longer needed that we often feared we would find some family heirloom neatly sawn up into a box of kindling.
+
+Anthea always seemed a very calm and peaceful person, unfailingly kind and welcoming too, always thinking of other people and ready to help in any way she could. She had a healthy disrespect for authority and admired individualism. Anthea was the centre of our family, our one common relation. I feel privileged to have known her for 29 years. I will miss her terribly but I will smile whenever I think of her.
+
+*Do not stand at my grave and weep,*\
+*I am not there, I do not sleep.*\
+*I am in a thousand winds that blow,*\
+*I am the softly falling snow.*\
+*I am the gentle showers of rain,*\
+*I am the fields of ripening grain.*\
+*I am in the morning hush,*\
+*I am in the graceful rush*\
+*Of beautiful birds in circling flight,*\
+*I am the star-shine of the night.*\
+*I am in the flowers that bloom,*\
+*I am in a quiet room.*\
+*I am in the birds that sing,*\
+*I am in each lovely thing.*\
+*Do not stand at my grave and cry,*\
+*I am not there. I do not die.*
