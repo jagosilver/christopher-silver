@@ -29,4 +29,12 @@ Anthea Leigh grew up in Topsham, Devon. She married David Silver, Christopher's 
 
 ---
 
+## [Romano-British Antiquities Found at Topsham](Denver-Excavation)
+
+In 1934–35, a sewer trench cut through Park Field — the land opposite Thomas Bolt Pyne's nurseries in Topsham — unearthed a collection of Romano-British pottery, bronze, coins and glass spanning the first to third centuries AD. L. A. D. Montague catalogued the finds for the Devon Archaeological Exploration Society. The report connects the Pyne family's land to a much older story: a civilian settlement beside the Roman port at Topsham.
+
+→ [Read the excavation report](Denver-Excavation)
+
+---
+
 *Archive assembled by Jago Silver, 2025.*
