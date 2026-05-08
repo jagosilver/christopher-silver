@@ -1,11 +1,11 @@
 ---
 title: "Silver Family Archive"
-description: "A family photographic and memoir archive."
+description: "Photographs, memoir, archaeology and family papers from the Silver and Pyne families of Exeter and Topsham."
 ---
 
 # Silver Family Archive
 
-This archive brings together photographs and writings from two members of the Silver family of Exeter — a geriatrician and photographer whose glass plates span four decades, and his sister-in-law's memoir of a Devon childhood.
+This archive brings together photographs, writings and historical documents from the Silver and Pyne families of Exeter and Topsham, Devon — spanning from Romano-British antiquity to the twentieth century.
 
 ---
 
@@ -34,6 +34,16 @@ Anthea Leigh grew up in Topsham, Devon. She married David Silver, Christopher's 
 In 1934–35, a sewer trench cut through Park Field — the land opposite Thomas Bolt Pyne's nurseries in Topsham — unearthed a collection of Romano-British pottery, bronze, coins and glass spanning the first to third centuries AD. L. A. D. Montague catalogued the finds for the Devon Archaeological Exploration Society. The report connects the Pyne family's land to a much older story: a civilian settlement beside the Roman port at Topsham.
 
 → [Read the excavation report](Denver-Excavation)
+
+---
+
+## [The Bodmin–Wadebridge Railway](https://jagosilver.github.io/bodmin-wadebridge-railway/)
+
+**A Level Archaeology Project — 1998**
+
+What evidence is there remaining of the Bodmin and Wadebridge Railway? Built in 1834 to bring sand from the docks at Wadebridge inland for agricultural use, it quickly developed into a popular passenger service. This project — Jago Silver's A Level archaeology fieldwork — traces the route station by station, using parish maps, Ordnance Survey maps, early twentieth-century photographs, and original fieldwork to document what survived in 1998.
+
+→ [View the archaeology project](https://jagosilver.github.io/bodmin-wadebridge-railway/)
 
 ---
 
