@@ -3,12 +3,12 @@ import * as Plugin from "./quartz/plugins"
 
 /**
  * Quartz 4 Configuration
- * Christopher Patrick Silver — Photographs 1920–2012
+ * Silver Family Artifacts
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Christopher Patrick Silver",
-    pageTitleSuffix: " — CPS Photographs",
+    pageTitle: "Silver Family Artifacts",
+    pageTitleSuffix: " — Silver Family Artifacts",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

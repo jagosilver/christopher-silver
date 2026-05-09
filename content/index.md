@@ -1,11 +1,11 @@
 ---
-title: "Silver Family Archive"
-description: "Photographs, memoir, archaeology and family papers from the Silver and Pyne families of Exeter and Topsham."
+title: "Silver Family Artifacts"
+description: "Photographs, memoir, archaeology, academic work and family papers from the Silver and Pyne families of Exeter, Topsham and Cornwall."
 ---
 
-# Silver Family Archive
+# Silver Family Artifacts
 
-This archive brings together photographs, writings and historical documents from the Silver and Pyne families of Exeter and Topsham, Devon — spanning from Romano-British antiquity to the twentieth century.
+This archive brings together photographs, writings, academic work and historical documents from the Silver and Pyne families of Exeter, Topsham and Cornwall — spanning from Romano-British antiquity to the twenty-first century.
 
 ---
 
@@ -44,6 +44,16 @@ In 1934–35, a sewer trench cut through Park Field — the land opposite Thomas
 What evidence is there remaining of the Bodmin and Wadebridge Railway? Built in 1834 to bring sand from the docks at Wadebridge inland for agricultural use, it quickly developed into a popular passenger service. This project — Jago Silver's A Level archaeology fieldwork — traces the route station by station, using parish maps, Ordnance Survey maps, early twentieth-century photographs, and original fieldwork to document what survived in 1998.
 
 → [View the archaeology project](https://jagosilver.github.io/bodmin-wadebridge-railway/)
+
+---
+
+## [Authorship: is 'software art' challenging our accepted notions?](Dissertation)
+
+**BA Hons Illustration Dissertation — University College Falmouth, 2003**
+
+Jago Silver's undergraduate dissertation, written under the name Jago Titcomb, which contributed to a double first in BA Hons Illustration. The essay examines whether software art and digital media challenge established ideas about authorship and originality, drawing on Barthes, Foucault, Benjamin and Manovich to explore the tension between the apparent democracy of the internet and the restrictive coding of the technological elite.
+
+→ [Read the dissertation](Dissertation)
 
 ---
 
