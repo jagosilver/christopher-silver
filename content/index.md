@@ -29,6 +29,16 @@ Anthea Leigh grew up in Topsham, Devon. She married David Silver, Christopher's 
 
 ---
 
+## [A Trip on the River](Trip-on-the-River)
+
+**Autobiographical Essay — Wadebridge School, 1995**
+
+Written aged 15 by Jago Silver (then Jago Titcomb) during Year 10 at Wadebridge School. An evening sailing on the River Exe at Topsham — the same town his grandmother Anthea grew up in. Having moved to Cornwall five years earlier, the essay captures a return visit and a twilight race that turns into a quiet drift through the reeds and moored boats of the estuary.
+
+→ [Read the essay](Trip-on-the-River)
+
+---
+
 ## [Romano-British Antiquities Found at Topsham](Denver-Excavation)
 
 In 1934–35, a sewer trench cut through Park Field — the land opposite Thomas Bolt Pyne's nurseries in Topsham — unearthed a collection of Romano-British pottery, bronze, coins and glass spanning the first to third centuries AD. L. A. D. Montague catalogued the finds for the Devon Archaeological Exploration Society. The report connects the Pyne family's land to a much older story: a civilian settlement beside the Roman port at Topsham.
