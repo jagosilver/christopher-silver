@@ -57,6 +57,16 @@ What evidence is there remaining of the Bodmin and Wadebridge Railway? Built in 
 
 ---
 
+## [*When The Wind Blows* — A Social and Contextual Analysis](When-The-Wind-Blows)
+
+**BA Hons Illustration, Year One — Falmouth College of Arts, 2001**
+
+A HACS essay by Jago Silver (then Jago Titcomb) analysing Raymond Briggs' devastating picture book about nuclear war. The essay examines how Briggs uses the familiar comic-strip format and sympathetic working-class characters to deliver a hard-hitting anti-nuclear message, set against the Cold War tensions of Thatcher and Reagan's Britain.
+
+→ [Read the essay](When-The-Wind-Blows)
+
+---
+
 ## [Authorship: is 'software art' challenging our accepted notions?](Dissertation)
 
 **BA Hons Illustration Dissertation — University College Falmouth, 2003**
